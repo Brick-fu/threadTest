@@ -10,7 +10,7 @@ public class Demo1 implements Runnable{
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            System.out.println("线程启动了！！！");
+            System.out.println("线程启动了！");
 
         }
     }
